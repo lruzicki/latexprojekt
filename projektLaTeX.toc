@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Triathlon}{3}%
+\contentsline {subsection}{\numberline {1.1}Co to jest?}{3}%
+\contentsline {subsection}{\numberline {1.2}Jakie są rodzaje?}{3}%
+\contentsline {section}{\numberline {2}Zawodnicy}{4}%
+\contentsline {subsection}{\numberline {2.1}Najsłynniejsi z Polski}{4}%
+\contentsline {subsection}{\numberline {2.2}Światowi zawodnicy}{5}%
+\contentsline {section}{\numberline {3}Jak osiągnęli sukces?}{6}%
+\contentsline {subsection}{\numberline {3.1}Specjalna dieta}{6}%
+\contentsline {subsection}{\numberline {3.2}Waga}{6}%
+\contentsline {subsection}{\numberline {3.3}Co jedzą?}{6}%
+\contentsline {section}{\numberline {4}Rzeczy niepotrzebne sportowcom}{8}%
+\contentsline {subsection}{\numberline {4.1}Wzory matematyczne na całki nieoznaczone}{8}%
+\contentsline {subsection}{\numberline {4.2}Własności}{8}%
+\contentsline {subsection}{\numberline {4.3}Granica }{8}%
